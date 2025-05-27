@@ -33,8 +33,8 @@ O objetivo é permitir que usuários visualizem, pesquisem, favoritem e explorem
 Abra o terminal e execute:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repo-giphy-quasar.git
-cd seu-repo-giphy-quasar
+git clone https://github.com/VictorTavaress/giphy-explorer
+cd giphy-explorer
 ```
 
 ---
