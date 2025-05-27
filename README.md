@@ -4,6 +4,9 @@ Este projeto é uma aplicação web desenvolvida com [Quasar 2](https://quasar.d
 O objetivo é permitir que usuários visualizem, pesquisem, favoritem e explorem GIFs de forma moderna e responsiva.
 
 ---
+![image](https://github.com/user-attachments/assets/d38ec583-f77f-457f-aeac-2081fa62b5cd)
+
+
 
 ---
 
