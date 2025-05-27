@@ -8,6 +8,10 @@ O objetivo é permitir que usuários visualizem, pesquisem, favoritem e explorem
 
 
 
+https://github.com/user-attachments/assets/bd37f300-0754-4ffa-aa56-4fdd435144ff
+
+
+
 ---
 
 ## Funcionalidades
